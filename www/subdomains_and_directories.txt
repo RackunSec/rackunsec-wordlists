@@ -347,6 +347,8 @@ han
 handl
 handle
 hansolo
+hal
+hal9000
 hd
 head
 helpdesk
