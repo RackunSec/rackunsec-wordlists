@@ -1,13 +1,5 @@
 .git
-!
 dag
-!_archives
-!_images
-!backup
-!images
-!res
-!textove_diskuse
-!ut
 .bash_history
 .bashrc
 .cvs
