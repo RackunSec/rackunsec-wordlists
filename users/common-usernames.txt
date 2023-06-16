@@ -97,6 +97,10 @@ testshopper
 shopper
 shoppertest
 shopperdev
+justuser
+justusers
+justadmin
+justadmins
 nessus
 nessusadmin
 webadmin
