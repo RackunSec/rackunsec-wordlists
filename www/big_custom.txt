@@ -1,5 +1,10 @@
 
 ?wsdl
+site.webmanifest
+webmanifest
+wwwmanifest
+webmanifest.xml
+webmanifest.json
 _
 __
 0
