@@ -14306,6 +14306,8 @@ ppl
 ppob
 ppp
 pp_repository
+pprof
+profile.pb.gz
 pps
 ppt
 ppts
