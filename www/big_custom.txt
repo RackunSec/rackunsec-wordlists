@@ -20867,3 +20867,10 @@ zxcvbnm
 zxydat
 zz
 zzz
+pprof/goroutine
+pprof/heap
+pprof/threadcreate
+pprof/block
+pprof/mutex
+pprof/profile
+pprof/trace?seconds=5
