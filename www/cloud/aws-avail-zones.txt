@@ -1,0 +1,34 @@
+US East (N. Virginia),use1-az1,use1-az2,use1-az3,use1-az4,use1-az5,use1-az6
+US East (Ohio),use2-az1,use2-az2,use2-az3
+US West (N. California),usw1-az1,usw1-az2,usw1-az3
+US West (Oregon),usw2-az1,usw2-az2,usw2-az3,usw2-az4
+Africa (Cape Town),afs1-az1,afs1-az2,afs1-az3
+Asia Pacific (Hong Kong),ape1-az1,ape1-az2,ape1-az3
+Asia Pacific (Hyderabad),aps2-az1,aps2-az2,aps2-az3
+Asia Pacific (Jakarta),apse3-az1,apse3-az2,apse3-az3
+Asia Pacific (Malaysia),apse5-az1,apse5-az2,apse5-az3
+Asia Pacific (Melbourne),apse4-az1,apse4-az2,apse4-az3
+Asia Pacific (Mumbai),aps1-az1,aps1-az2,aps1-az3
+Asia Pacific (Osaka),apne3-az1,apne3-az2,apne3-az3
+Asia Pacific (Seoul),apne2-az1,apne2-az2,apne2-az3,apne2-az4
+Asia Pacific (Singapore),apse1-az1,apse1-az2,apse1-az3
+Asia Pacific (Sydney),apse2-az1,apse2-az2,apse2-az3
+Asia Pacific (Thailand),apse7-az1,apse7-az2,apse7-az3
+Asia Pacific (Tokyo),apne1-az1,apne1-az2,apne1-az3,apne1-az4
+Canada (Central),cac1-az1,cac1-az2,cac1-az4
+Canada West (Calgary),caw1-az1,caw1-az2,caw1-az3
+Europe (Frankfurt),euc1-az1,euc1-az2,euc1-az3
+Europe (Ireland),euw1-az1,euw1-az2,euw1-az3
+Europe (London),euw2-az1,euw2-az2,euw2-az3
+Europe (Milan),eus1-az1,eus1-az2,eus1-az3
+Europe (Paris),euw3-az1,euw3-az2,euw3-az3
+Europe (Spain),eus2-az1,eus2-az2,eus2-az3
+Europe (Stockholm),eun1-az1,eun1-az2,eun1-az3
+Europe (Zurich),euc2-az1,euc2-az2,euc2-az3
+Israel (Tel Aviv),ilc1-az1,ilc1-az2,ilc1-az3
+Mexico (Central),mxc1-az1,mxc1-az2,mxc1-az3
+Middle East (Bahrain),mes1-az1,mes1-az2,mes1-az3
+Middle East (UAE),mec1-az1,mec1-az2,mec1-az3
+South America (São Paulo),sae1-az1,sae1-az2,sae1-az3
+AWS GovCloud (US-East),usge1-az1,usge1-az2,usge1-az3
+AWS GovCloud (US-West),usgw1-az1,usgw1-az2,usgw1-az3
